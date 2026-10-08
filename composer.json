@@ -1,0 +1,6 @@
+{
+    "name": "lab/assinador-pdf-teste",
+    "require": {
+        "tecnickcom/tc-lib-pdf-sign": "^2.0"
+    }
+}
